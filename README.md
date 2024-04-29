@@ -1,5 +1,5 @@
 
-### GitHub Stats
+### GitHub Stats [![Metrics](https://github.com/brrock/brrock/actions/workflows/update-readme.yml/badge.svg)](https://github.com/brrock/brrock/actions/workflows/update-readme.yml) [![markscribe](https://github.com/brrock/brrock/actions/workflows/markscribe.yml/badge.svg)](https://github.com/brrock/brrock/actions/workflows/markscribe.yml)
 
 <p align="left"><img src="https://github.com/brrock/brrock/raw/main/github-metrics.svg" /></p>
 
