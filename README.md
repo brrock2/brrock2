@@ -1,15 +1,15 @@
 
-### GitHub Stats [![Metrics](https://github.com/brrock/brrock/actions/workflows/update-readme.yml/badge.svg)](https://github.com/brrock/brrock/actions/workflows/update-readme.yml)
+### GitHub Stats
 
 <p align="left"><img src="https://github.com/brrock/brrock/raw/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/ronorbroytweb](https://github.com/brrock/ronorbroytweb) - 
 - [brrock/web](https://github.com/brrock/web) - 
 - [brrock/Simple-web-tools](https://github.com/brrock/Simple-web-tools) - 
-- [brrock/Game-x-new](https://github.com/brrock/Game-x-new) - 
 - [brrock/blog](https://github.com/brrock/blog) - 
-- [brrock/barebones-oo-shutup-config](https://github.com/brrock/barebones-oo-shutup-config) - 
+- [brrock/Game-x-new](https://github.com/brrock/Game-x-new) - 
 ### 🌱 My latest projects
 
 - [brrock/ronorbroytweb](https://github.com/brrock/ronorbroytweb) - 
