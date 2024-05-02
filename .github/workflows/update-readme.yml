@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
 
           # Options
-          user: brrock
+          user: brrock2
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: europe/london
