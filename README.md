@@ -5,8 +5,6 @@
 ### 👷 Check out what I'm currently working on
 
 - [brrock2/hi](https://github.com/brrock2/hi) - TEST
-- [brrock2/Cool-flask](https://github.com/brrock2/Cool-flask) - 
-- [brrock2/Simple-web-tools](https://github.com/brrock2/Simple-web-tools) - 
 ### 🌱 My latest projects
 
 - [brrock2/hi](https://github.com/brrock2/hi) - TEST
