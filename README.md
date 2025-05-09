@@ -17,5 +17,6 @@
 - [Update header.njk](https://github.com/brrock/web/pull/4) on [brrock/web](https://github.com/brrock/web)
 ### ⭐ Recent Stars
 
+- [brrock/dockerpi](https://github.com/brrock/dockerpi) - A Virtualised up to date Raspberry Pi inside a Docker image
 - [imraj569/YouTube_Downloader](https://github.com/imraj569/YouTube_Downloader) - YouTube Downloader is a powerful Python script that allows you to download YouTube videos and playlists effortlessly. Whether you want to download individual videos or entire playlists, this script has you covered. It is designed to be user-friendly, efficient, and versatile.
 - [brrock/web](https://github.com/brrock/web) - 
