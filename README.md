@@ -4,7 +4,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
+- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - Just a Better Chatbot. Powered by MCP &amp; Workflows.
 - [brrock2/hi](https://github.com/brrock2/hi) - TEST
 ### 🌱 My latest projects
 
