@@ -4,7 +4,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - Just a Better Chatbot. Powered by MCP &amp; Workflows.
+- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP &amp; Workflows.
 - [brrock2/hi](https://github.com/brrock2/hi) - TEST
 ### 🌱 My latest projects
 
@@ -14,7 +14,7 @@
 - [brrock2/pythotwo](https://github.com/brrock2/pythotwo) - 
 ### 🔨 My recent Pull Requests
 
-- [hot fix: Update .env.example to have openrouter api key](https://github.com/cgoinglove/mcp-client-chatbot/pull/44) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
+- [hot fix: Update .env.example to have openrouter api key](https://github.com/cgoinglove/better-chatbot/pull/44) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [Refactor](https://github.com/brrock/ronotbroyt.xyz/pull/107) on [brrock/ronotbroyt.xyz](https://github.com/brrock/ronotbroyt.xyz)
 - [Update header.njk](https://github.com/brrock/web/pull/4) on [brrock/web](https://github.com/brrock/web)
 ### ⭐ Recent Stars
