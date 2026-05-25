@@ -5,7 +5,6 @@
 ### 👷 Check out what I'm currently working on
 
 - [brrock2/test](https://github.com/brrock2/test) - 
-- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
 ### 🌱 My latest projects
 
 - [brrock2/test](https://github.com/brrock2/test) - 
