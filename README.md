@@ -4,7 +4,6 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock2/test](https://github.com/brrock2/test) - 
 ### 🌱 My latest projects
 
 - [brrock2/test](https://github.com/brrock2/test) - 
